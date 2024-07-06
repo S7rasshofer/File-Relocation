@@ -1,0 +1,23 @@
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\File Relocation.exe
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\File Relocation.deps.json
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\File Relocation.runtimeconfig.json
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\File Relocation.dll
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\File Relocation.pdb
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.csproj.AssemblyReference.cache
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation_MarkupCompile.cache
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.g.resources
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.AssemblyInfoInputs.cache
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.AssemblyInfo.cs
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.csproj.CoreCompileInputs.cache
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Rel.0C58CF0E.Up2Date
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.dll
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\refint\File Relocation.dll
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.pdb
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\File Relocation.genruntimeconfig.cache
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\obj\Debug\net8.0-windows\ref\File Relocation.dll
+C:\Users\carne\Documents\IT Projects\VBA\File Relocation\File Relocation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll

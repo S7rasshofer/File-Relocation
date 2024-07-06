@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rri1ZTKn/mLYhbEx81paoeUU7x4RmrKrS+L9Te83Xu8jKI+LmPkefvXljqooRbKLwgt7ieAaIwEUtl/At9vsRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carne\\Documents\\IT Projects\\VBA\\File Relocation\\File Relocation\\File Relocation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\carne\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.1\\ookii.dialogs.wpf.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
